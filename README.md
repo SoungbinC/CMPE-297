@@ -12,3 +12,7 @@
 ## b) Calude Dev - Mastermind game
 
 -   Implement the Mastermind game in Python. Mastermind or Master Mind is a code-breaking game for two players. The modern game with pegs was invented in 1970 by Mordecai Meirowitz, an Israeli postmaster and telecommunications expert. It resembles an earlier pencil and paper game called Bulls and Cows that may date back a century or more.
+
+## c) Multimodal capabilities of gemini
+
+-   video audio and images and text - demonstrate with colab ten advanced features of ten domains like coding, videos, and images with multimodal capabilities of gemini
